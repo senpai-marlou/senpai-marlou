@@ -16,7 +16,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 ### Designing tools:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23151515.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23151515.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-151515.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23151515.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2330a8ff) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23151515.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23ff9a00) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-151515.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%23ea77ff)
   
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senpai-marlou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
