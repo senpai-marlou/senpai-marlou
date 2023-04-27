@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Jhon Marlou</h1>
 <h3 align="center">A Freshmen IT Student from NU</h3>
 
-📫 Email me **@jhonmarloutobello0@gmail.com**
+📫 Email me **at jhonmarloutobello0@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
