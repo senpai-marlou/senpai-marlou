@@ -5,7 +5,7 @@
   <span style="display: inline-block; vertical-align: middle;">
     A Freshmen IT Student from National University
   </span>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="31" height="37" style="display: inline-block; vertical-align: middle;">
+  <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="31" height="37" style="display: inline-block; vertical-align: middle;"></a>
 </h3>
 
 🌱 I’m currently learning **Java**<br/>
