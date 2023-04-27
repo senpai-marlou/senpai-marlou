@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Socials:</h3>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jmtobello) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a)
+<p [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jmtobello) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a) />
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
