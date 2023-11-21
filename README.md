@@ -21,7 +21,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="45" height="45"/>
   </a>
 </p>
 
