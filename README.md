@@ -7,7 +7,7 @@
   </span>
 </h3>
 
-🌱 I’m currently learning **Java**<br/>
+🌱 I’m currently learning **Java** && **C++**<br/>
 📫 Email me at:
 **jhonmarloutobello0@gmail.com**
 </p>
