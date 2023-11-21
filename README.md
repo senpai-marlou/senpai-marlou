@@ -16,8 +16,16 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jmtobello) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senpai_marlou) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.bio/marlou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-marlou-tobello-062b2925a) 
 
 ### Languages:
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/>
+  </a>
+</p>
+
+
 
 ### Designing tools:
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23151515.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2330a8ff) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23151515.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23ff9a00) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-151515.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%23ea77ff)
