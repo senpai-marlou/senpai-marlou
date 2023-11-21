@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Jhon Marlou</h1>
 <h3 style="text-align: center;" && align="center">
   <span style="display: inline-block; vertical-align: middle;">
-    A Freshmen IT Student from National University
+    A Freshmen IT Student from the National University
   </span>
 </h3>
 
-🌱 I’m currently learning **Java** && **C++**<br/>
+🌱 I’m currently learning **Java** & **C++**<br/>
 📫 Email me at:
 **jhonmarloutobello0@gmail.com**
 </p>
