@@ -7,32 +7,57 @@
   </span>
 </h3>
 
-🌱 I’m currently learning **Java** & **C++**<br/>
-📫 Email me at:
-**jhonmarloutobello0@gmail.com**
+<h5 align="center">🌱 I'm currently a second-year college student at the National University of Manila, studying Information Technology<br>with a specialization in Mobile and Web Applications. Right now, I'm learning Java and C++.</h5>
 </p>
 
 ### Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jmtobello) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senpai_marlou) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.bio/marlou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-marlou-tobello-062b2925a) 
-
-### Languages:
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" width="40" height="40"/>
+<div align="left">
+  <a href="https://www.facebook.com/jmtobello" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="35" alt="facebook logo"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="45" height="45"/>
+  <a href="https://www.instagram.com/senpai_marlou/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="35" alt="instagram logo"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="35" alt="linkedin logo"/>
+  </a>
+  <a href="https://www.behance.net/jhonmartobello" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="42" height="35" alt="behance logo"/>
+  </a>
+  <a href="jhonmarloutobello0@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="35" alt="gmail logo"/>
+  </a>
+  <a href="https://discords.com/bio/p/marlou" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="35" alt="discord logo"/>
+  </a>
+</div>
 
-
-
-### Designing tools:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23151515.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2330a8ff) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23151515.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23ff9a00) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-151515.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%23ea77ff)
+### Languages and Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"/>
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"/>
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="illustrator logo"/>
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"/>
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
+</div>
   
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=senpai-marlou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=senpai-marlou&theme=dark&hide_border=false)<br/>
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=senpai-marlou&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senpai-marlou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### Always remember:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%20rule%20of%20programming%2C%20if%20it%20works%2C%20don%27t%20touch%20it.&author=Unknown&fontSize=30)
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/senpai-marlou/senpai-marlou/output/snake.svg" alt="Snake animation" />
