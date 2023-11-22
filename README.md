@@ -7,10 +7,8 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px">
   </h1>
 
-<h3 align="center"><i>An IT Student from the National University</i>
-  <a href="https://national-u.edu.ph/nu-manila/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NU_shield.svg/269px-NU_shield.svg.png" width="20" height="24" alt="NU logo"/> 
-  </a> </h3>
+<h3 align="center"><b><i>An IT Student from the <a href="https://national-u.edu.ph/nu-manila/">National University</i></a></b></h3>
+
   
 <h4 align="center"> <i>More about me:</i> <br>
 <img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <i>I'm currently a second-year college student at the National University in Manila, studying
