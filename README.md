@@ -77,7 +77,6 @@ More about me: <br>
   <img src="https://media2.giphy.com/media/rRPC8u9ePEGko5Wfd1/giphy.gif?cid=ecf05e47ifdo1c8hdhbw95ts0p3pxodz5c2jdoni3mz9vw16&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70px">
   <img src="https://media2.giphy.com/media/rRPC8u9ePEGko5Wfd1/giphy.gif?cid=ecf05e47ifdo1c8hdhbw95ts0p3pxodz5c2jdoni3mz9vw16&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70px">
   <img src="https://media2.giphy.com/media/rRPC8u9ePEGko5Wfd1/giphy.gif?cid=ecf05e47ifdo1c8hdhbw95ts0p3pxodz5c2jdoni3mz9vw16&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70px">
-  <img src="https://media2.giphy.com/media/rRPC8u9ePEGko5Wfd1/giphy.gif?cid=ecf05e47ifdo1c8hdhbw95ts0p3pxodz5c2jdoni3mz9vw16&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70px">
   <img src="https://media3.giphy.com/media/OLSrfnlZTbvgXUAkqk/giphy.gif?cid=ecf05e47c2vwx1fqyur13c6o5m4hu3gzxkiugmrfkmcbb3sr&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="130px">
 </div>
 
