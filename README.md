@@ -49,15 +49,12 @@
   
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=senpai-marlou&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senpai-marlou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Always remember:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%20rule%20of%20programming%2C%20if%20it%20works%2C%20don%27t%20touch%20it.&author=Unknown&fontSize=30)
-
-###
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/senpai-marlou/senpai-marlou/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/senpai-marlou/senpai-marlou/output/snake.svg" alt="Snake animation" />
+</div>
