@@ -58,10 +58,10 @@
   <b>Email - <a href="mailto:jhonmarloutobello0@gmail.com">jhonmarloutobello0@gmail.com</a></b> <br>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968771.png" width="14" height="14" alt="Messenger logo"/>
   <img width="1" />
-  <b>Messenger - <a href="https://www.messenger.com/t/jmtobello">Jhon Marlou Tobello</a></b> <br>
+  <b>Messenger - <a href="https://www.messenger.com/t/jmtobello">Send me a message</a></b> <br>
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="15" height="15" alt="Linkedin logo"/>
   <img width="1" />
-  <b>Linkedin - <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/">Jhon Marlou Tobello</a></b> <br>
+  <b>Linkedin - <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/">Get in touch with me</a></b> <br>
   
 </div>
 
