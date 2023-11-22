@@ -10,30 +10,31 @@
 <h3 align="center"><i>An IT Student from the National University</i>
   <a href="https://national-u.edu.ph/nu-manila/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NU_shield.svg/269px-NU_shield.svg.png" width="20" height="24" alt="NU logo"/> 
-  </a> <br><br>
-<i>More about me:</i> <br>
+  </a> </h3>
+  
+<h4 align="center"> <i>More about me:</i> <br>
 <img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <i>I'm currently a second-year college student at the National University in Manila, studying
   Information <br>Technology with a specialization in Mobile and Web Applications. Right now, I'm learning Java and C++</i>.
-</h3>
+</h4>
 
 <hr>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Socials:
 <div align="left">
   <a href="https://www.facebook.com/jmtobello" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="35" alt="facebook logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" width="35" height="35" alt="facebook logo"/>
   </a>
   <a href="https://www.instagram.com/senpai_marlou/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="35" alt="instagram logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" height="35" alt="instagram logo"/>
   </a>
   <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="35" alt="linkedin logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="35" height="35" alt="linkedin logo"/>
   </a>
   <a href="https://www.behance.net/jhonmartobello" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="42" height="35" alt="behance logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504888.png" width="35" height="35" alt="behance logo"/>
   </a>
   <a href="https://discords.com/bio/p/marlou" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="35" alt="discord logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" width="35" height="35" alt="discord logo"/>
   </a>
 </div>
 
@@ -41,14 +42,14 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" alt="cplusplus logo"/>
   <img width="1" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
   <img width="1" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="illustrator logo"/>
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"/>
-  <img width="1" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="illustrator logo"/>
+  <img width="0" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
 </div>
 
@@ -77,11 +78,37 @@
 <br clear="both">
 <div align="center">
   <img src="https://raw.githubusercontent.com/senpai-marlou/senpai-marlou/output/snake.svg" alt="Snake animation" />
-</div>
+</div> <br>
 
-<hr>
+<div align="center"> 
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+</div> <hr>
 
-### <h2 align="center"> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25px"> <i><b>Nayeon</b></i> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25px"> </h2>
+### <h3 align="center"> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px"> <i><b>Nayeon</b></i> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px"> </h3>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/OLSrfnlZTbvgXUAkqk/giphy.gif?cid=ecf05e47c2vwx1fqyur13c6o5m4hu3gzxkiugmrfkmcbb3sr&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="130px">
