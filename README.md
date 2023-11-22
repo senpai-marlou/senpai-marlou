@@ -11,7 +11,7 @@
   
 <h3 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <i>More about me:</i> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <br> <br>
 <img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <b>I'm currently a second-year college student at the National University in Manila, studying
-  Information <br>Technology with a specialization in Mobile and Web Applications. Right now, I'm learning Java and C++</b>.<img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="23px">
+  Information <br>Technology with a specialization in Mobile and Web Applications. Right now, I'm learning Java and C++</b>.
 </h3>
 
 <hr>
