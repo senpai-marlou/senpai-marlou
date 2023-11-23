@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="40" height="40" alt="linkedin logo"/>
   </a>
-  <a href="https://www.behance.net/jhonmartobello" target="_blank">
+  <a href="https://www.behance.net/jhonmarlouT" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504888.png" width="40" height="40" alt="behance logo"/>
   </a>
   <a href="https://discords.com/bio/p/marlou" target="_blank">
