@@ -48,6 +48,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
+  <img width="0" />
+  <img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" height="40" alt="Eclipes logo"/> 
 </div>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Connect with me:
