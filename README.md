@@ -69,7 +69,7 @@
 ###  <h3 align="center"> <img src="https://media4.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif?cid=ecf05e47bj6n9ge5inqezbejfk0zc52qechpe2j73ykvhu8m&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="25px"> <i><b>GitHub Stats</b></i> <img src="https://media4.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif?cid=ecf05e47bj6n9ge5inqezbejfk0zc52qechpe2j73ykvhu8m&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="25px"> </h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=senpai-marlou&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=senpai-marlou&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senpai-marlou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br clear="both">
