@@ -19,30 +19,30 @@
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Socials:
 <div align="left">
   <a href="https://www.facebook.com/jmtobello" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" width="35" height="35" alt="facebook logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" width="40" height="40" alt="facebook logo"/>
   </a>
   <a href="https://www.instagram.com/senpai_marlou/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" height="35" alt="instagram logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="instagram logo"/>
   </a>
   <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="35" height="35" alt="linkedin logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="40" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://www.behance.net/jhonmartobello" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504888.png" width="35" height="35" alt="behance logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504888.png" width="40" height="40" alt="behance logo"/>
   </a>
   <a href="https://discords.com/bio/p/marlou" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" width="35" height="35" alt="discord logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" width="40" height="40" alt="discord logo"/>
   </a>
 </div>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Languages and Tools:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
-  <img width="1" />
+  <img width="0" />
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" alt="cplusplus logo"/>
-  <img width="1" />
+  <img width="0" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
-  <img width="1" />
+  <img width="0" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="illustrator logo"/>
   <img width="0" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
