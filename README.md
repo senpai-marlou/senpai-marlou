@@ -64,6 +64,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="18" height="18" alt="Linkedin logo"/>
   <img width="1" />
   <b>Linkedin - <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/">Get in touch with me</a></b> <br>
+  <img src="https://seeklogo.com/images/R/riot-games-icon-logo-D362EFE649-seeklogo.com.png" width="18" height="18" alt="Riot games logo"/>
+  <img width="1" />
+  <b>Riot ID - NU secur3D #00000 </b> <br>
   </h4>  
 </div>
 
