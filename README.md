@@ -15,8 +15,8 @@
 </h3>
 
 <hr>
-<img align="right" width=110px alt="Invisible" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
-<img align="right" width=400px alt="Unicorn" src="https://media1.giphy.com/media/zq4TDUWJ9y968/giphy.gif?cid=ecf05e47fumupjye4toprhvuyxkft5k51etjb6fbgvfu4qrr&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
+<img align="right" width=70px alt="Invisible" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
+<img align="right" width=370px alt="Unicorn" src="https://media1.giphy.com/media/zq4TDUWJ9y968/giphy.gif?cid=ecf05e47fumupjye4toprhvuyxkft5k51etjb6fbgvfu4qrr&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Socials:
 <div align="left">
