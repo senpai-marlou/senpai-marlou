@@ -1,21 +1,19 @@
 [![](https://visitcount.itsvg.in/api?id=senpai-marlou&icon=5&color=12)](https://visitcount.itsvg.in)
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
-
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=320&height=35&lines=Hi%2C+I'm+Jhon+Marlou" alt="Typing SVG">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px">
   </h1>
 
-<h3 align="center"><b><i>An IT Student from the <a href="https://national-u.edu.ph/nu-manila/">National University</i></a></b></h3>
-  
-<h3 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <i>More about me:</i> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <br> <br>
-<img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <b>I'm currently a second-year college student at the National University in Manila, studying Information <br>Technology with a specialization in Mobile and Web Applications. Right now, I'm learning Java and C++</b>.
+<h3 align="center"><b><i>An IT Student from the <a href="https://national-u.edu.ph/nu-manila/">National University</i></a></b></h3>  
+  <h3 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <i>More about me:</i> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" > <br> <br>
+  <img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <b>I'm currently a second-year college student at the National University in Manila, studying Information <br>Technology with a specialization in Mobile and Web Applications. I am currently learning Java, C++, and Python. Soon, I will be diving into website development</b>.
 </h3>
 
 <hr>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img align="right" width=52px alt="Invisible" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
+<img align="right" width=60px alt="Invisible" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
 </a>
 <img align="right" width=370px alt="Unicorn" src="https://media1.giphy.com/media/zq4TDUWJ9y968/giphy.gif?cid=ecf05e47fumupjye4toprhvuyxkft5k51etjb6fbgvfu4qrr&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
 
@@ -39,44 +37,36 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Languages and Tools:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
-  <img width="0" />
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" alt="cplusplus logo"/>
-  <img width="0" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
-  <img width="0" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="illustrator logo"/>
-  <img width="0" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
-  <img width="0" />
-  <img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" height="40" alt="Eclipes logo"/> 
-  <img width="0" />
-  <img src="https://i.pinimg.com/originals/24/42/f8/2442f8e6dbd772f0cf1dad8d803399bc.png" height="40" alt="VS-Code logo"/>
+<div style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" alt="cplusplus logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="illustrator logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
+    <img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" height="40" alt="Eclipse logo"/>
+    <img src="https://i.pinimg.com/originals/24/42/f8/2442f8e6dbd772f0cf1dad8d803399bc.png" height="40" alt="VS-Code logo"/>
 </div>
 
-<div align="left">
-  <h3> 
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Connect with me: <br> <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="17" height="17" alt="Gmail logo"/>
-  <img width="1" />
-  Email - <a href="mailto:jhonmarloutobello0@gmail.com">jhonmarloutobello0@gmail.com</a> <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968771.png" width="17" height="17" alt="Messenger logo"/> 
-  <img width="1" />
-  Messenger - <a href="https://www.messenger.com/t/jmtobello">Send me a message</a> <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="17" height="17" alt="Linkedin logo"/>
-  <img width="1" />
-  Linkedin - <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/">Get in touch with me</a> <br>
-  <img src="https://seeklogo.com/images/R/riot-games-icon-logo-D362EFE649-seeklogo.com.png" width="17" height="17" alt="Riot games logo"/>
-  <img width="1" />
-  <b>Riot ID - NU secur3D #00000 </b> <br>
-  </h4>  
+<div style="display: flex; align-items: center;">
+    <h3> 
+        <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Connect with me: <br> <br>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="17" height="17" alt="Gmail logo"/>
+        <img width="1" />
+        Email - <a href="mailto:jhonmarloutobello0@gmail.com">jhonmarloutobello0@gmail.com</a> <br>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968771.png" width="17" height="17" alt="Messenger logo"/> 
+        <img width="1" />
+        Messenger - <a href="https://www.messenger.com/t/jmtobello">Send me a message</a> <br>
+        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="17" height="17" alt="Linkedin logo"/>
+        <img width="1" />
+        Linkedin - <a href="https://www.linkedin.com/in/jhon-marlou-tobello-062b2925a/">Get in touch with me</a> <br>
+        <img src="https://seeklogo.com/images/R/riot-games-icon-logo-D362EFE649-seeklogo.com.png" width="17" height="17" alt="Riot games logo"/>
+        <img width="1" />
+        <b>Riot ID - NU secur3D #00000 </b> <br>
+    </h3>  
 </div>
 
-  
-###  <h3 align="center"> <img src="https://media4.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif?cid=ecf05e47bj6n9ge5inqezbejfk0zc52qechpe2j73ykvhu8m&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="25px"> <i><b>GitHub Stats</b></i> <img src="https://media4.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif?cid=ecf05e47bj6n9ge5inqezbejfk0zc52qechpe2j73ykvhu8m&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="25px"> </h3>
+### <h3 align="center"> <img src="https://media4.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif?cid=ecf05e47bj6n9ge5inqezbejfk0zc52qechpe2j73ykvhu8m&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="25px"> <i><b>GitHub Stats</b></i> <img src="https://media4.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif?cid=ecf05e47bj6n9ge5inqezbejfk0zc52qechpe2j73ykvhu8m&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="25px"> </h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=senpai-marlou&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
