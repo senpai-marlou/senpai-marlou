@@ -10,13 +10,12 @@
 <h3 align="center"><b><i>An IT Student from the <a href="https://national-u.edu.ph/nu-manila/">National University</i></a></b></h3>
   
 <h3 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <i>More about me:</i> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <br> <br>
-<img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <b>I'm currently a second-year college student at the National University in Manila, studying
-  Information <br>Technology with a specialization in Mobile and Web Applications. Right now, I'm learning Java and C++</b>.
+<img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <b>I'm currently a second-year college student at the National University in Manila, studying Information <br>Technology with a specialization in Mobile and Web Applications. Right now, I'm learning Java and C++</b>.
 </h3>
 
 <hr>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img align="right" width=66px alt="Invisible" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
+<img align="right" width=56px alt="Invisible" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
 </a>
 <img align="right" width=370px alt="Unicorn" src="https://media1.giphy.com/media/zq4TDUWJ9y968/giphy.gif?cid=ecf05e47fumupjye4toprhvuyxkft5k51etjb6fbgvfu4qrr&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
 
@@ -54,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
   <img width="0" />
   <img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" height="40" alt="Eclipes logo"/> 
+  <img width="0" />
+  <img src="https://i.pinimg.com/originals/24/42/f8/2442f8e6dbd772f0cf1dad8d803399bc.png" height="40" alt="VS-Code logo"/>
 </div>
 
 <div align="left">
