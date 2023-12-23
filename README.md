@@ -40,9 +40,10 @@
 <div style="display: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" alt="cplusplus logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="40" alt="python logo"/> <br>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="illustrator logo"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/> <br>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
     <img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" height="40" alt="Eclipse logo"/>
     <img src="https://i.pinimg.com/originals/24/42/f8/2442f8e6dbd772f0cf1dad8d803399bc.png" height="40" alt="VS-Code logo"/>
