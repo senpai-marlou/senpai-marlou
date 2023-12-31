@@ -38,7 +38,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Languages and Tools:
 <div style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1892/1892549.png" height="40" alt="java logo"/>
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" alt="cplusplus logo"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="40" alt="python logo"/> <br>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
