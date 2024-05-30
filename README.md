@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/senpai-marlou/LEARNING-JAVA/blob/main/pixel-mario.gif)
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=320&height=35&lines=Hi%2C+I'm+Jhon+Marlou" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=2500&pause=1000&color=0160C9&center=true&vCenter=true&random=false&width=320&height=35&lines=Hi%2C+I'm+Jhon+Marlou" alt="Typing SVG">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px">
   </h1>
 
