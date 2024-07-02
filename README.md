@@ -122,32 +122,6 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-</div>
-
-<div align="center"> 
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
 </div> 
