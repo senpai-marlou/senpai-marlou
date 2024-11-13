@@ -38,11 +38,14 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Languages and Tools:
 <div style="display: flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1892/1892549.png" height="40" alt="java logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java logo"/>
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" alt="cplusplus logo"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="csharp logo"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="40" alt="python logo"/> 
     <img src="https://cdn-icons-png.flaticon.com/512/11516/11516140.png" height="40" alt="HTML 5 logo"/> 
-    <img src="https://cdn-icons-png.flaticon.com/512/11516/11516361.png" height="40" alt="CSS 3 logo"/> <br>
+    <img src="https://cdn-icons-png.flaticon.com/512/11516/11516361.png" height="40" alt="CSS 3 logo"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40" alt="JS logo"/>
+    <img src="https://static-00.iconduck.com/assets.00/file-type-dartlang-icon-255x256-gx2fpt1m.png" height="40" alt="Dart logo"/> <br>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="illustrator logo"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
