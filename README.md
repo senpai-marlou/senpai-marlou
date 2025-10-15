@@ -13,7 +13,7 @@
 
 <hr>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img align="right" width=60px alt="Invisible" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
+<img align="right" width=60px alt="Invisible" src="https://i.imgur.com/qFmcbT0.png" />
 </a>
 <img align="right" width=370px alt="Unicorn" src="https://media1.giphy.com/media/zq4TDUWJ9y968/giphy.gif?cid=ecf05e47fumupjye4toprhvuyxkft5k51etjb6fbgvfu4qrr&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
 
@@ -45,7 +45,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/11516/11516361.png" height="40" alt="CSS 3 logo"/> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40" alt="JS logo"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="react js logo"/>
-    <img src="https://static-00.iconduck.com/assets.00/file-type-dartlang-icon-255x256-gx2fpt1m.png" height="40" alt="Dart logo"/> <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="40" alt="Dart logo"/> <br>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height="40" alt="photoshop logo"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="illustrator logo"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" height="40" alt="premierepro logo"/>
