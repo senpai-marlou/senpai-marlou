@@ -8,7 +8,7 @@
 
 <h3 align="center"><b><i>An IT Student from the <a href="https://national-u.edu.ph/nu-manila/">National University</i></a></b></h3>  
   <h3 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> <i>More about me:</i> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" > <br> <br>
-  <img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <b>I'm currently a third-year college student at the National University in Manila, studying Information Technology with a specialization in Mobile and Web Applications.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28" alt="GIF"/></b>
+  <img src="https://media.tenor.com/Nl45qRGQk_0AAAAi/ghost-white.gif" width="25px"> <b>I'm currently a fourth-year college student at the National University in Manila, studying Information Technology with a specialization in Mobile and Web Applications.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28" alt="GIF"/></b>
 </h3>
 
 <hr>
