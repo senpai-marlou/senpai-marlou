@@ -82,11 +82,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/senpai-marlou/senpai-marlou/output/snake.svg" alt="Snake animation" />
 </div>
-<hr>
+<!-- <hr>
 
-### <h3 align="center"> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px"> <i><b>Nayeon</b></i> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px"> </h3>
+<!-- ### <h3 align="center"> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px"> <i><b>Nayeon</b></i> <img src="https://media4.giphy.com/media/xUPGcgvoipFxRtpMl2/giphy.gif?cid=ecf05e4783dy1wali9lzt49zz9h2bbdbepau6wo4ny4xh5fv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px"> </h3>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media3.giphy.com/media/OLSrfnlZTbvgXUAkqk/giphy.gif?cid=ecf05e47c2vwx1fqyur13c6o5m4hu3gzxkiugmrfkmcbb3sr&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="130px">
   <img src="https://media2.giphy.com/media/rRPC8u9ePEGko5Wfd1/giphy.gif?cid=ecf05e47ifdo1c8hdhbw95ts0p3pxodz5c2jdoni3mz9vw16&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70px">
   <img src="https://media2.giphy.com/media/rRPC8u9ePEGko5Wfd1/giphy.gif?cid=ecf05e47ifdo1c8hdhbw95ts0p3pxodz5c2jdoni3mz9vw16&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70px">
@@ -124,4 +124,4 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
-</div> 
+</div>  -->
